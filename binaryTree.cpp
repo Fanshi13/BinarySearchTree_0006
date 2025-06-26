@@ -63,4 +63,6 @@ public:
             return;
         }
     }
+
+    void search(int element, Node *&parent, Node *&currentNode)
 };
